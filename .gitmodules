@@ -1,3 +1,6 @@
 [submodule "crawler"]
 	path = crawler
 	url = https://github.com/FunnyMartin/crawler.git
+[submodule "library"]
+	path = library
+	url = https://github.com/FunnyMartin/library
