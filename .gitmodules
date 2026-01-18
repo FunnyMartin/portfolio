@@ -4,3 +4,6 @@
 [submodule "library"]
 	path = library
 	url = https://github.com/FunnyMartin/library
+[submodule "bank"]
+	path = bank
+	url = https://github.com/FunnyMartin/bank.git
