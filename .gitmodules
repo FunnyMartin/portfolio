@@ -7,3 +7,6 @@
 [submodule "bank"]
 	path = bank
 	url = https://github.com/FunnyMartin/bank.git
+[submodule "sleep-score"]
+	path = sleep-score
+	url = https://github.com/FunnyMartin/sleep-score.git
